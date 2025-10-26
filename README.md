@@ -1,2 +1,2 @@
-# robloxsearchbar
-a roblox exploit that adds a search bar to the player list menu
+## robloxsearchbar
+a qol exploit that creates a search bar for the player list
